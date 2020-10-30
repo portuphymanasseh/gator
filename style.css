@@ -6,7 +6,8 @@ h1 {
   text-align: center;
 }
 
-p, li {
+p, {
+  font-family: "Times New Roman", Times, serif;
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
@@ -32,5 +33,4 @@ img {
 
 html {
   font-size: 15px;
-  font-family: 'Open Sans', sans-serif;
 }
